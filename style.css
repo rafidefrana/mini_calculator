@@ -94,3 +94,11 @@ section {
   background-color: whitesmoke;
   color: black;
 }
+
+footer {
+  text-align: center;
+}
+
+footer p {
+  font-size: 12px;
+}
